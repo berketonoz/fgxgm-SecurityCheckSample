@@ -1,4 +1,4 @@
-const express = require("express@4.19.2")
+const express = require("express")
 // const helmet = require("helmet")
 
 // creating an Express instance
